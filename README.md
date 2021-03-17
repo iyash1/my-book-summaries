@@ -21,3 +21,4 @@
 6. [The Productivity Project](https://github.com/iyash1/my-book-summaries/blob/master/the-productivity-project.md)
 7. [The Subtle Art Of Not Giving F\*ck](https://github.com/iyash1/my-book-summaries/blob/master/the-subtle-art-of-not-giving-an-f.md)
 8. [Grokking Algorithms](https://github.com/iyash1/my-book-summaries/blob/master/grokkings-algorithms.md)
+9. [Problem Solving 101](https://github.com/iyash1/my-book-summaries/blob/master/problem-solving-101.md)
