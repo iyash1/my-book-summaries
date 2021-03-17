@@ -16,16 +16,16 @@
   4.  `O(n^2)`. Example: A slow sorting algorithm, like selection sort.
   5.  `O(n!)`. Example: A really slow algorithm, like the traveling salesperson
 
-> ![Big-O Notation Comparison Chart](assets/images/1_cQ78W0R0qxaSgYLosfYMxg.png)
+> ![Big-O Notation Comparison Chart](assets/images/grokkings-algorithms/1_cQ78W0R0qxaSgYLosfYMxg.png)
 
 - For now, the main takeaways are as follows:
 
   1. Algorithm speed isn’t measured in seconds, but in growth of the number of operations. Instead, we talk about how quickly the run time of an algorithm increases as the size of the input increases.
   2. Run time of algorithms is expressed in Big O notation. `O(log n)` is faster than `O(n)`, but it gets a lot faster as the list of items you’re searching grows.
 
-> ![Big-O Graph Comparison](https://i.stack.imgur.com/y4RLi.png)
+> ![Big-O Graph Comparison](https://i.stack.imgur.com/grokkings-algorithms/y4RLi.png)
 
-> ![Array & Linked Lists Image](assets/images/array-linked-list.png)
+> ![Array & Linked Lists Image](assets/images/grokkings-algorithms/array-linked-list.png)
 
 - **_Linked lists_** are great if you’re going to read all the items one at a time: you can read one item, follow the address to the next item, and so on. But if you’re going to keep jumping around, linked lists are terrible.
 
@@ -35,7 +35,7 @@
 
 - Which are used more: arrays or lists? Obviously, it depends on the use case. But arrays see a lot of use because they allow random access.
 
-> ![Array vs Linked List Comparison](assets/images/1_Lnb0IARMGORn_c-gYf-24g.png)
+> ![Array vs Linked List Comparison](assets/images/grokkings-algorithms/1_Lnb0IARMGORn_c-gYf-24g.png)
 
 - There are two different types of access: random access and sequential access.
   1.  **_Sequential access_** means reading the elements one by one, starting at the first element. Linked lists can only do sequential access. If you want to read the 10th element of a linked list, you have to read the first 9 elements and follow the links to the 10th element.
@@ -59,7 +59,7 @@
 
 - Using the stack is convenient, but there’s a cost: saving all that info can take up a lot of memory. Each of those function calls takes up some memory, and when your stack is too tall, that means your computer is saving information for many function calls. At that point, you have two options: You can rewrite your code to use a loop instead. You can use something called tail recursion. That’s an advanced recursion topic that is out of the scope of this book. It’s also only supported by some languages, not all.
 
-> ![Stack vs Queue](assets/images/1_xSRTv4g2tofWQktkUwoRog.png)
+> ![Stack vs Queue](assets/images/grokkings-algorithms/1_xSRTv4g2tofWQktkUwoRog.png)
 
 - Recursion is when a function calls itself. Every recursive function has two cases: the base case and the recursive case. A stack has two operations: push and pop. All function calls go onto the call stack. The call stack can get very large, which takes up a lot of memory.
 
@@ -92,7 +92,7 @@
 
 - They’re also known as hash maps, maps, dictionaries, and associative arrays.
 
-> ![Hash function image](assets/images/1200px-Cryptographic_Hash_Function.svg.png)
+> ![Hash function image](assets/images/grokkings-algorithms/1200px-Cryptographic_Hash_Function.svg.png)
 
 - Wow, mapping a web address to an IP address? Sounds like a perfect use case for hash tables! This process is called DNS resolution. Hash tables are one way to provide this functionality.
 
@@ -150,7 +150,7 @@
 
 > A **_tree_** is a special type of graph, where no edges ever point back.
 
-> ![Tree Graph Data Structure](assets/images/tree-data-struct.png)
+> ![Tree Graph Data Structure](assets/images/grokkings-algorithms/tree-data-struct.png)
 
 - **_Breadth-first search_** tells you if there’s a path from A to B. If there’s a path, breadth-first search will find the shortest path. If you have a problem like “find the shortest X,” try modeling your problem as a graph, and use breadth-first search to solve. A directed graph has arrows, and the relationship follows the direction of the arrow (rama -> adit means “rama owes adit money”). Undirected graphs don’t have arrows, and the relationship goes both ways (ross - rachel means “ross dated rachel and rachel dated ross”). Queues are FIFO (First In, First Out). Stacks are LIFO (Last In, First Out). You need to check people in the order they were added to the search list, so the search list needs to be a queue. Otherwise, you won’t get the shortest path. Once you check someone, make sure you don’t check them again. Otherwise, you might end up in an infinite loop.
 
@@ -161,9 +161,9 @@
   3. Repeat until you’ve done this for every node in the graph.
   4. Calculate the final path.
 
-> ![Dijkstra’s algorithm](assets/images/dijkstra1.png)
+> ![Dijkstra’s algorithm](assets/images/grokkings-algorithms/dijkstra1.png)
 
-> ![Types of Graph Data Structures](assets/images/graph-properties-graph-algorithms-2.png)
+> ![Types of Graph Data Structures](assets/images/grokkings-algorithms/graph-properties-graph-algorithms-2.png)
 
 - But in Dijkstra’s algorithm, you assign a number or weight to each segment. Then Dijkstra’s algorithm finds the path with the smallest total weight.
 
@@ -225,7 +225,7 @@
   2.  The values in the cells are usually what you’re trying to optimize. For the knapsack problem, the values were the value of the goods.
   3.  Each cell is a subproblem, so think about how you can divide your problem into subproblems. That will help you figure out what the axes are.
 
-> ![DC Algorithm vs. Greedy Algorithms vs. Dynamic Programming](assets/images/1_7K58T11lmYsr1lCbWZwAxw.jpeg)
+> ![DC Algorithm vs. Greedy Algorithms vs. Dynamic Programming](assets/images/grokkings-algorithms/1_7K58T11lmYsr1lCbWZwAxw.jpeg)
 
 - The truth is, there’s no easy way to calculate the formula here. You have to experiment and try to find something that works. Sometimes algorithms aren’t an exact recipe. They’re a framework that you build your idea on top of.
 
