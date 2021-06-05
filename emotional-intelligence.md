@@ -20,6 +20,8 @@
 
 > Real results come from putting your momentary needs on hold to pursue larger, more important goals.
 
+---
+
 - **_Self-management_** Is more than resisting explosive or problematic behaviour. The biggest challenge that people face is managing their tendencies over time and applying their skills in a variety of situations.
 
 - The surprising thing about self-awareness is that just thinking about it helps you improve the skill, even though much of your focus initially tends to be on what you do wrong. Having self-awareness means you aren't afraid of your emotional "mistakes."
@@ -46,6 +48,14 @@
 > 14. Seek Feedback
 > 15. Get to Know Yourself under Stress
 
+- _SELF-AWARENESS ACTIVITY 1_ : Observer physical changes & cues when you are happy, excited, sad or depressed from head to toe. Think about the events that have triggered strong emotions - both positive and negative - and take a not of physical differences. Next time, when confused about your emotions, observe your physical signs.
+
+- _SELF-AWARENESS ACTIVITY 2_: Take a sheet of paper and separate it into two columns. List your core values and beliefs in the left column and anything that you've done or said recently that you aren't proud of in the right column. Is what you value in alignment with the manner in which you conduct yourself? If not, consider alternatives to what you said and did that would have made you proud of yourself, or at least more comfortable.
+
+- _SELF-AWARENESS ACTIVITY 3_: Taking a moment here and there to check yourself will allow you to understand your mood before it sets the tone for the rest of your day.
+
+---
+
 > **SELF-MANAGEMENT STRATEGIES**
 >
 > 1. Breathe Right
@@ -65,6 +75,16 @@
 > 15. Learn a Valuable Lesson from Everyone You Encounter
 > 16. Put a Mental Recharge into Your Schedule
 > 17. Accept That Change is Just around the Corner
+
+---
+
+- _SELF-MANAGEMENT ACTIVITY 1_: The next time you are in a stressful or emotional situation, focus on taking slow deep breaths, inhaling through your nose until you can feel your stomach swell outward and grow tight, and tight then exhaling gently and completely through your mouth. As you exhale, go ahead and push that breath out until you have completely emptied your lungs.
+
+- _SELF-MANAGEMENT ACTIVITY 2_: Much of self-management comes down to motivation, and you can use the expectation that other people have of you as a powerful force to get you up off the proverbial couch.
+
+- _SELF-MANAGEMENT ACTIVITY 3_: A great time to visualize is before you go to bed at night. Just close your eyes and visualize yourself in situations where you have the most difficulty managing yourself. Focus on the details of each situation that make it so hard for you to remain in control; concentrate on the sights and sounds you would experience if you were actually there until you literally feel the same emotions. Next, picture yourself acting the way you'd like to (i.e., calming your nerves and proceeding confidently during a big presentation, dealing with someone who pushes your buttons without loosing your cool, etc.)
+
+---
 
 - In the end, no man is an island; relationships are an essential and fulfilling part of life. Since you are half of any relationship, you have half of the responsibility of deepening these connections.
 
@@ -96,6 +116,8 @@
 > 16. Seek the Whole Picture
 > 17. Catch the Mood of the Room
 
+---
+
 - **_Relationship management_** is your ability to use your awareness of your own emotions and those of others to manage interactions successfully. This skill often taps into your abilities in the first three emotional intelligence skills: self-awareness, self-management, and social awareness.
 
 - If you want people to listen, you have to practice relationship management and seek benefits from every relationship, especially the challenging ones. The difference between an interaction and a relationship is a matter of frequency. It's a product of the quality, depth, and time you spend interacting with another person. Relationship management poses the greatest challenge for most people during times of stress.
@@ -119,6 +141,14 @@
 > 15. Align Your Intention with Your Impact
 > 16. Offer a "Fix-it" Statement during a Broken Conversation
 > 17. Tackle a Tough Conversation
+
+---
+
+- _RELATIONSHIP MANAGEMENT ACTIVITY 1_: On the left side of the paper, jot down the upsides of your natural style. These are the things people appreciate about you interact with them. On the right side, list the downsides or things that have created confusion, weird reactions, or trouble. Once your list is complete, choose three upsides that you can use more to improve your communication. Next, choose three downsides, and think about ways you can either eliminate, downplay, or improve them. Be honest with yourself about what you will or won't do.
+
+- _RELATIONSHIP MANAGEMENT ACTIVITY 2_: For the next month, pay close attention to matching your tone and body language to what you are really trying to say. Take mental note of those moments when you tell someone that you are feeling fine, but your body, tone or demeanor is sending drastically different signals. When you catch yourself sending a mixed signal, readjust to match it or explain it.
+
+---
 
 - Middle managers stand out, with the highest EQ scores in the workforce. But up beyond middle management, there is a steep downward trend in EQ scores. For the titles of director and above, scores descend faster than a snowboarder on a black diamond. CEOS, on average, have the lowest EQ in the workplace.
 

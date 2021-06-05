@@ -13,6 +13,8 @@
 
 ## Index
 
+---
+
 1. [How to think like Bill Gates](https://github.com/iyash1/my-book-summaries/blob/master/how-to-think-like-bill-gates.md)
 2. [Mind is your business](https://github.com/iyash1/my-book-summaries/blob/master/mind-is-your-business.md)
 3. [Rich Dad Poor Dad](https://github.com/iyash1/my-book-summaries/blob/master/rich-dad-poor-dad.md)
