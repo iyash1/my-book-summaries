@@ -24,3 +24,4 @@
 9. [Problem Solving 101](https://github.com/iyash1/my-book-summaries/blob/master/problem-solving-101.md)
 10. [Pandemic](https://github.com/iyash1/my-book-summaries/blob/master/pandemic.md)
 11. [The Psychology of Money](https://github.com/iyash1/my-book-summaries/blob/master/The-Psychology-of-Money.md)
+12. [Emotional Intelligence 2.0](https://github.com/iyash1/my-book-summaries/blob/master/emotional-intelligence.md)
